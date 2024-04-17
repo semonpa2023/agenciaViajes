@@ -1,0 +1,56 @@
+{
+    "usuarios":[
+        {
+            "nombre": "Kevin De Brune",
+            "Destino": "Miami",
+            "valorViaje": "$1.27",
+            "cantidadPersonas":"2"
+          }, {
+            "nombre": "Rodrygo Leao",
+            "Destino": "Moscu",
+            "valorViaje": "$7.75",
+            "cantidadPersonas":"2"
+          }, {
+            "nombre": "Carleto Anchelotti",
+            "Destino": "Madrid",
+            "valorViaje": "$3.64",
+            "cantidadPersonas":"1"
+          }, {
+            "nombre": "Dayro Moreno",
+            "Destino": "Monaco",
+            "valorViaje": "$1.97",
+            "cantidadPersonas":"1"
+          }, {
+            "nombre": "Edwin De Brownie",
+            "Destino": "Tolu",
+            "valorViaje": "$4.87",
+            "cantidadPersonas":"6"
+          }, {
+            "nombre": "Sebasian Montoya",
+            "Destino": "Santirin",
+            "valorViaje": "$0.58",
+            "cantidadPersonas":"2"
+          }, {
+            "nombre": "Leonardo Favio",
+            "Destino": "Buenos Aires",
+            "valorViaje": "$0.80",
+            "cantidadPersonas":"4"
+          }, {
+            "nombre": "Harry Potter",
+            "Destino": "Chigorodó",
+            "valorViaje": "$5.03",
+            "cantidadPersonas":"5"
+          }, {
+            "nombre": "Jorge Curioso",
+            "Destino": "Kingston",
+            "valorViaje": "$2.46",
+            "cantidadPersonas":"1"
+          }, {
+            "nombre": "Rui Patricio",
+            "Destino": "Bangladesh",
+            "valorViaje": "$2.25",
+            "cantidadPersonas":"3"
+            
+          }
+    ]
+}
